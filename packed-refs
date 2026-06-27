@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+0f301ea943b48207909fe695b1da41d07e4514ff refs/heads/01-express
+b6df474d294b52e903fb4b2b6666dc0dafb835bd refs/heads/02-mongodb
+929bead746e27ece202a842d3226aa821628d4cd refs/heads/03-validation
+7ca7ac3de1f4828c73b468fd682c9a4c5f88bc8d refs/heads/04-auth
+bb9094b4d81d71dd83cedcacaac06a4077cef77c refs/heads/05-mail-and-img
+8e4c73edcb104bed1a2bb0cc92cf56d3f9f8e093 refs/heads/main
